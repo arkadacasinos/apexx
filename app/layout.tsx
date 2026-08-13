@@ -23,6 +23,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="db3a10cbd6b8b1e8" />
 <script
   dangerouslySetInnerHTML={{
     __html: `
